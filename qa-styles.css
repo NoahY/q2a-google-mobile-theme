@@ -476,7 +476,7 @@ color: #444444;
 
 .qa-nav-footer-list {float:left; list-style-type:none; padding:5px; margin:0;}
 .qa-nav-footer-item {float:left; margin-right:12px;}
-.qa-nav-footer-link {font-size:150%; line-height:185%; text-decoration:underline !important;}
+.qa-nav-footer-link {line-height:185%; text-decoration:underline !important;}
 .qa-attribution {float:right;margin-top: 10px;}
 	.qa-attribution a {text-decoration:underline; !important;}
 
